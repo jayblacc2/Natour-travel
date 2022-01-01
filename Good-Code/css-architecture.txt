@@ -15,7 +15,7 @@
 2. ARCHITECT
     ---css file & folder structure
      --Folder structure
-      -Base/
+      -Base/ - general style
       -components/
       -layout/
       -pages/
