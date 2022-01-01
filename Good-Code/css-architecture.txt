@@ -1,0 +1,24 @@
+1. THINK
+   --think how to structure layout
+   --Component design
+   --layout
+
+2. BUILD   
+   ---Page Layout
+    --HTML LAYOUT
+    --CSS STRUCTURE & CLASS NAMING(BEM)
+      -BEM
+          .BLOCK{}
+          .BLOCK__ELEMENT{}
+          .BLO CK__ELEMENT--MODIFIER{}
+    --Code Mockup
+2. ARCHITECT
+    ---css file & folder structure
+     --Folder structure
+      -Base/
+      -components/
+      -layout/
+      -pages/
+      -themes/
+      -abstracts: no css code(variables & mixins)
+      -vendors(third party css)
