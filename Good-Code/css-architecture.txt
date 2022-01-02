@@ -22,3 +22,37 @@
       -themes/
       -abstracts: no css code(variables & mixins)
       -vendors(third party css)
+
+
+CLEAN  & MODERN JS CODE
+
+      ---Readable
+         --descriptive variable & function names
+
+       ---Generals
+           --use strong type check(=== and !==) 
+   
+       ---Functions
+          --functions should do one thing
+          -- don't use more 3 function parameter
+          --use default parameters if neccessary
+          --return same data as received
+          --use arrow functions 
+ 
+          ---OOP
+             --use ES6 classes
+             --Encapsulate data and don't mutate it from outside classes
+             --implement method chaining
+             --dont use arrow functions as methods in object
+
+         ---Avoid Nested Code
+           --Use early return(guard clause)
+           --Use ternary or logic operators  instead of (if-condition)
+           --use multiple if instead of if/else-if
+           --avoid for loops, use array methods
+           --avoid callback-based async API's
+
+        ---Asynchronous Code
+            --use Promises with async/await instead of callback 
+            --Whenever possible, run promises in parallel(promise all)
+            --Handle errors and promise rejections
