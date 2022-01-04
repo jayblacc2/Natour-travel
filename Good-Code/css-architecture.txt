@@ -2,6 +2,7 @@
    --think how to structure layout
    --Component design
    --layout
+   --HTML5 Semantic
 
 2. BUILD   
    ---Page Layout
