@@ -2,6 +2,7 @@
    --think how to structure layout
    --Component design
    --layout
+   --HTML5 Semantic
 
 2. BUILD   
    ---Page Layout
@@ -56,6 +57,7 @@ CLEAN  & MODERN JS CODE
             --use Promises with async/await instead of callback 
             --Whenever possible, run promises in parallel(promise all)
             --Handle errors and promise rejections
+<<<<<<< HEAD
 
 
 FUNCTIONAL PROGRAMMING
@@ -63,3 +65,5 @@ FUNCTIONAL PROGRAMMING
          ---It's a declarative(what to do) programming paradigm
          ---Combining many pure functions, & avoiding side effect and              mutable data
              --Side effect is modification or mutation of data outside               (scope) of the function(mutating external variables,log to                console , writing to DOM) 
+=======
+>>>>>>> c4be09200c61ff0125371efa1baa3f87c77e650d
