@@ -56,3 +56,10 @@ CLEAN  & MODERN JS CODE
             --use Promises with async/await instead of callback 
             --Whenever possible, run promises in parallel(promise all)
             --Handle errors and promise rejections
+
+
+FUNCTIONAL PROGRAMMING
+
+         ---It's a declarative(what to do) programming paradigm
+         ---Combining many pure functions, & avoiding side effect and              mutable data
+             --Side effect is modification or mutation of data outside               (scope) of the function(mutating external variables,log to                console , writing to DOM) 
