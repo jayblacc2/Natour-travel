@@ -74,4 +74,22 @@ CLEAN  & MODERN JS CODE
        ---Use array & object destructuring
        ---Use the spread operator(...)
        ---Use the ternary(conditional) operator
-       ---Use template literals
+       ---Use template literals 
+
+**setTimeout work in async way and make callback function runs async
+**nested callback inside another call back inorder to execute async in sequence  called callback hell
+
+
+
+
+  ************* AJAX(Fetch) & ASYNC(Prominses)*************************
+
+     AJAX ping the endpoint
+     Fetch is used to replace ajax XMLHttpRequest which is to get       communicate with an endpoint(request)
+    
+     Async is replace with (Promises) to get the data from the endpoint        (response)
+
+instead of callback nesting we can chain sequence of promises
+
+
+  
