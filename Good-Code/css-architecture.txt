@@ -61,13 +61,13 @@ CLEAN  & MODERN JS CODE
          *********FUNCTIONAL PROGRAMMING***************
 
          ---It's a declarative(what to do) programming paradigm
-         ---Combining many pure functions, & avoiding side effect and              mutable data
-             --Side effect is modification or mutation of data outside               (scope) of the function(mutating external variables,log to                console , writing to DOM) 
+         ---Combining many pure functions, & avoiding side effect and  mutable data
+             --Side effect is modification or mutation of data outside  (scope) of the function(mutating external variables,log to   console , writing to DOM) 
             *******FUNCTIONAL PROGRAMMINGTECHNIQUES**********
 
        --- Avoid data mutations
        ----Use built-in methods
-       ---Do data transformation with methods like .map() .filter()                  .reduce()
+       ---Do data transformation with methods like .map() .filter() .reduce()
 
        *************DECLARATIVE SYNTAX**************************
         
@@ -85,9 +85,9 @@ CLEAN  & MODERN JS CODE
   **************** AJAX(Fetch) & ASYNC(Prominses)********************
 
       ---AJAX ping the endpoint
-         --Fetch is used to replace ajax XMLHttpRequest which is to get            communicate with an endpoint(request)
+         --Fetch is used to replace ajax XMLHttpRequest which is to get communicate with an endpoint(request)
     
-         --Async is replace with (Promises) to get the data from the            endpoint (response) instead of callback nesting we can chain            sequence of promises
+         --Async is replace with (Promises) to get the data from the endpoint (response) instead of callback nesting we can chain sequence of promises
 
 
   
