@@ -82,14 +82,12 @@ CLEAN  & MODERN JS CODE
 
 
 
-  ************* AJAX(Fetch) & ASYNC(Prominses)*************************
+  **************** AJAX(Fetch) & ASYNC(Prominses)********************
 
-     AJAX ping the endpoint
-     Fetch is used to replace ajax XMLHttpRequest which is to get       communicate with an endpoint(request)
+      ---AJAX ping the endpoint
+         --Fetch is used to replace ajax XMLHttpRequest which is to get            communicate with an endpoint(request)
     
-     Async is replace with (Promises) to get the data from the endpoint        (response)
-
-instead of callback nesting we can chain sequence of promises
+         --Async is replace with (Promises) to get the data from the            endpoint (response) instead of callback nesting we can chain            sequence of promises
 
 
   
